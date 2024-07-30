@@ -1,0 +1,25 @@
+.MuiButton-outlined,
+.MuiOutlinedInput-notchedOutline {
+  border-color: var(--orange) !important;
+}
+
+.MuiButton-root,
+.MuiInputBase-input,
+.MuiFormLabel-root,
+.MuiPaper-root,
+.MuiSvgIcon-root,
+.MuiPickersDay-root {
+  color: var(--orange) !important;
+}
+
+.MuiPaper-root {
+  background-color: var(--bg-color) !important;
+}
+
+.mt-mb-half {
+  margin: 0.5rem 0 !important;
+}
+
+.mb-half {
+  margin-bottom: 0.5rem !important;
+}
